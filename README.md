@@ -1,18 +1,20 @@
 # olympic-baby-names
-Olympic baby names 
-
-
 Gold Medal Babies: a Predictive Analysis for Winning Names
 Client Ask: 
-Company that makes things with people’s names:
+Company that makes personalized souvenirs and keepsakes:
 We want a predictive model that tells us which names to produce.  Do Olympic sports have an effect on the popularity of baby names?
+![bort_image](Images/Bort.jpg) ![bottles](Images/personalized_gifts.jpg)
 
+
+Literature Review:
+Especially important if it were an Olympic year.  This company wishes to sell custom name novelties.
 Project:
 The goal is to analyze historical rise and fall in US baby names over time and determine correlations between the relative popularity of baby names and the names of winning Olympic athletes.
 Key Questions:
 •	How long does the effect of winning a gold medal last as it relates to baby names?
 o	Prediction: only one year of influence
-•	
+•	Greatest hits:
+o	Simone Biles, Christi, Apollo, Usain Bolt, Miracle on Ice crew, Michael Phelps, Mark Spitz, Florence Griffith Joiner, Jesse Owens
 
 Methodology
 Extract
