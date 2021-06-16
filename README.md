@@ -30,3 +30,11 @@ After adding a column designating their respective seasons (winter vs. summer), 
 
 **Load:**  
 Baby name and athlete data will be loaded into a postgreSQL database via pgAdmin.  Schemas were created for the Baby Name and Olympic Winners data frames,and they were connected by first name as a key.
+
+## Findings
+
+**Decide on Your Baby's Name the _Right_ Way:**
+
+We found that these were the names that most commonly won olympic medals. 
+![](Images/most_frequent_olympic_names.png)
+
