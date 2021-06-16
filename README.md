@@ -36,5 +36,6 @@ Baby name and athlete data will be loaded into a postgreSQL database via pgAdmin
 **Decide on Your Baby's Name the _Right_ Way:**
 
 We found that these were the names that most commonly won olympic medals. 
+
 ![](Images/most_frequent_olympic_names.png)
 
