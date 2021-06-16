@@ -16,8 +16,9 @@ The goal is to analyze historical rise and fall in US baby names over time and d
 
 •	How long does the effect of winning a gold medal last as it relates to baby names?  
 o	Prediction: only one year of influence  
-•	Greatest hits:  
-o	Simone Biles, Christi, Apollo, Usain Bolt, Miracle on Ice crew, Michael Phelps, Mark Spitz, Florence Griffith Joiner, Jesse Owens  
+•	Topline Graphs of some Famous Olympians: Kristi Yamaguchi, Apolo Ohno, Michael Phelps, Jesse Owens. 
+
+![](Images/KristiYamaguchi.png) ![](Images/ApoloOhno.png) ![](Images/ApolloOhno.png) ![](Images/MichaelPhelps.png) ![](Images/JesseeOwens.png)
 
 ## Methodology
 
