@@ -18,7 +18,7 @@ The goal is to analyze historical rise and fall in US baby names over time and d
 o	Prediction: only one year of influence  
 •	Topline Graphs of some Famous Olympians: Kristi Yamaguchi, Apolo Ohno, Michael Phelps, Jesse Owens. 
 
-![](Images/KristiYamaguchi.png) ![](Images/ApoloOhno.png) ![](Images/ApolloOhno.png) ![](Images/MichaelPhelps.png) ![](Images/JesseeOwens.png)
+![](Images/KristiYamaguchi.png) ![](Images/ApoloOhno.png) ![](Images/MichaelPhelps.png) ![](Images/JesseeOwens.png)
 
 ## Methodology
 
