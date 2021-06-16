@@ -34,8 +34,7 @@ Baby name and athlete data will be loaded into a postgreSQL database via pgAdmin
 ## Findings
 
 **Decide on Your Baby's Name the _Right_ Way:**
-
-We found that these were the names that most commonly won olympic medals. 
+We found that these were the names that most commonly won olympic medals. If you want your child to win an olympic medal, these are the names you MUST choose from. John obviously has the edge when it comes to men, but the field is a bit tighter for women. 
 
 ![](Images/most_frequent_olympic_names.png)
 
