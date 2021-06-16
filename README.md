@@ -38,3 +38,9 @@ We found that these were the names that most commonly won olympic medals. If you
 
 ![](Images/most_frequent_olympic_names.png)
 
+Here is the popularity of those names over the entire data set. We have put bars across the image for each time someone with that given name has won an olympic medal. By and large, there is no clear correlation between the names of olympic atheletes and the popularity of their given names. 
+
+![](Images/John.png) ![](Images/Robert.png) ![](Images/Vladimir.png) ![](Images/William.png) ![](Images/Charles.png) ![](Images/Elena.png) ![](Images/Maria.png) ![](Images/Olga.png) ![](Images/Anna.png) ![](Images/Svetlana.png)
+
+
+
