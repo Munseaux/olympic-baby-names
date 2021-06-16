@@ -1,6 +1,6 @@
 -- Drop table if exists
 DROP TABLE OlympicWinners;
--- DROP TABLE BabyNames;
+DROP TABLE BabyNames;
 
 CREATE TABLE OlympicWinners (
 	WinYear integer,
